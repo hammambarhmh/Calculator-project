@@ -1,0 +1,12 @@
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الحسابة المتطورة\مشروع الحسابة المتطورة\bin\Debug\مشروع الحسابة المتطورة.exe.config
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الحسابة المتطورة\مشروع الحسابة المتطورة\obj\Debug\مشروع الحسابة المتطورة.vbprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الحسابة المتطورة\مشروع الحسابة المتطورة\obj\Debug\مشروع_الحسابة_المتطورة.Form1.resources
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الحسابة المتطورة\مشروع الحسابة المتطورة\obj\Debug\مشروع_الحسابة_المتطورة.Form2.resources
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الحسابة المتطورة\مشروع الحسابة المتطورة\obj\Debug\مشروع_الحسابة_المتطورة.Resources.resources
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الحسابة المتطورة\مشروع الحسابة المتطورة\obj\Debug\مشروع الحسابة المتطورة.vbproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الحسابة المتطورة\مشروع الحسابة المتطورة\obj\Debug\مشروع الحسابة المتطورة.xml
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الحسابة المتطورة\مشروع الحسابة المتطورة\bin\Debug\مشروع الحسابة المتطورة.exe
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الحسابة المتطورة\مشروع الحسابة المتطورة\bin\Debug\مشروع الحسابة المتطورة.pdb
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الحسابة المتطورة\مشروع الحسابة المتطورة\bin\Debug\مشروع الحسابة المتطورة.xml
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الحسابة المتطورة\مشروع الحسابة المتطورة\obj\Debug\مشروع الحسابة المتطورة.exe
+c:\users\pc\documents\visual studio 2015\Projects\مشروع الحسابة المتطورة\مشروع الحسابة المتطورة\obj\Debug\مشروع الحسابة المتطورة.pdb
